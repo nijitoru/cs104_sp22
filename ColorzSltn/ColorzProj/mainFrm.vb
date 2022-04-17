@@ -1,6 +1,6 @@
 ﻿' Name: Colors Project
 ' Purpose: Enter colors in Italian to change txtBox color
-' Programmer: Judy Marie Delos Reyes on February 25, 2022
+' February 25, 2022
 
 Option Explicit On
 Option Infer Off
