@@ -1,6 +1,6 @@
 ﻿' Name: Sam's Project
 ' Purpose: Displays total amount customer owes and if quantity is over 5, the customer is given a 15% discount.
-' Programmer: Judy Marie Delos Reyes on February 11, 2022
+' February 11, 2022
 
 Option Explicit On
 Option Infer Off
