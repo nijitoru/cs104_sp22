@@ -4,7 +4,7 @@ Option Strict Off 'too much to convert if on, but works as should
 
 ' Name: Pennies Calculator
 ' Purpose: Display number of dollars, quarters, dimes, nickles, and pennies the user will recieve when pennies are cashed at the bank
-' Programmer: Judy Marie Delos Reyes on January 25, 2022
+' January 25, 2022
 
 Public Class Form1
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
