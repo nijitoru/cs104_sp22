@@ -5,7 +5,7 @@ Option Infer Off
 
 ' Name: Chopkins Project
 ' Purpose: Order Packs 
-' Programmer: Judy Marie Delos Reyes on January 31, 2022
+' January 31, 2022
 
 Public Class frmMain
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
